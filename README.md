@@ -3,6 +3,10 @@
 This is our official pytorch implementation of AFANet.
 
 ## :fire: News
+
+If you like this work, please ⭐ Star it on GitHub, Thanks!
+
+
 [October 28, 2024]： We uploaded the trained model for testing.
 
 [October 21, 2024]： We have released all the code used for training AFANet.
